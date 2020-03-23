@@ -32,7 +32,7 @@ publishertag.js - загружается два раз подряд
 
 ### записать и сохранить в файл профиль загрузки страницы
 
-Профиль по ссылке https://github.com/Postamentovich/tooling/blob/lifehacker.ru-network-profile
+Профиль по ссылке https://github.com/Postamentovich/tooling/blob/master/lifehacker.ru-performance-profile.json
 
 ### измерить время в миллисекундах от начала навигации до событий First Paint, First Meaningful Paint, DOM Content Loaded, Load
 
